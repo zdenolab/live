@@ -17,8 +17,6 @@ collections:
 social:
     - icon: fa-tumblr
       link: "https://zdenolab.tumblr.com"
-    - icon: fa-facebook
-      link: "https://facebook.com"
     - icon: fa-linkedin
       link: "https://linkedin.com"
     - icon: fa-github 
