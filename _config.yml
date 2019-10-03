@@ -2,7 +2,9 @@ title: latest posts
 description: ....
 author: zdenek barcaj
 github: https://github.com/zdenolab
-about: for gallery just click TMBLR icon bellow.feel free to download all my VBA projects.
+about: |
+	for gallery just click TMBLR icon bellow.
+    feel free to download all my VBA projects.
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 
