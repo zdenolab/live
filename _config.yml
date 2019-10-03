@@ -21,8 +21,6 @@ social:
       link: "https://facebook.com"
     - icon: fa-linkedin
       link: "https://linkedin.com"
-    <!--"- icon: fa-stack-exchange
-      link: "#""-->
     - icon: fa-github 
       link: "https://github.com/zdenoab"
 
