@@ -17,11 +17,13 @@ collections:
 social:
     - icon: fa-tumblr
       link: "https://zdenolab.tumblr.com"
+    - icon: fa-facebook
+      link: "https://facebook.com"
     - icon: fa-linkedin
       link: "https://linkedin.com"
-    - icon: fa-github 
+    - icon: fa-github
       link: "https://github.com/zdenoab"
-
+      
 share:
   twitter_username: github.io
   fb_appid: 1749788565247320
