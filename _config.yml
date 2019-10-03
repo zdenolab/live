@@ -2,7 +2,7 @@ title: Personal Project
 description: Check out my tumbl.
 author: zdeno.lab
 github: https://github.com/zdenoab
-about: See my TUMBLR. Feel free to download VBA projects.
+about: See my TUMBLR. Feel free to download VBA projects. "<!-- "dasdad" -->"
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 
@@ -21,9 +21,9 @@ social:
       link: "https://facebook.com"
     - icon: fa-linkedin
       link: "https://linkedin.com"
-    <!-- icon: fa-stack-exchange
-      link: "#"-->
-    - icon: fa-github
+    - icon: fa-stack-exchange
+      link: "#"
+    - icon: fa-github 
       link: "https://github.com/zdenoab"
 
 share:
