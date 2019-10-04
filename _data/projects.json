@@ -5,14 +5,14 @@
 		"image": "placeholder.jpg",
 		"url": "https://www.google.com",
 		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"tags": ["Angular JS","API","VBA"]
 	},
 	{
 		"name": "Cool project 2",
 		"image": "placeholder.jpg",
 		"url": "#",
 		"date": "May 2014",
-		"tags": ["Python","Django"]
+		"tags": ["Python","Django","VBA"]
 	},
 	{
 		"name": "Cool project 3",
