@@ -15,7 +15,7 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-tumblr-up
+    - icon: fa-tumblr-square
       link: "https://zdenolab.tumblr.com"
     - icon: fa-facebook
       link: "https://facebook.com"
