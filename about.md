@@ -2,8 +2,9 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-I'm Programmer for VBA & Excel. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+I work as SQL and VBA developer. Interested in Python and Linux distros. I've made few VBA Macros (feel free to dl and use them)
 
-email: agus[at]python.web.id
+email: zdenekbarcaj[at]gmail.com
