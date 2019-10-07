@@ -4,15 +4,12 @@ title: Brewing Timer 2.0
 slug: brew-timer
 published: true
 ---
-### Brewing Timer 2.0 (batch / cmd)
-##
-
-- vytvořeno jako jednoduchý dávkový soubor -> timer pro přípravu kávy.
+- dávkový soubor -> timer pro přípravu kávy.
 - 2 automatická nastavení času - Dripper 180 s a French press 200 s
-- možnost nastavení manuálně
+- možnost nastavení odpočtu manuálně
 
 
-> Výběr možností, limit 2 vtěřiny na výběr
+ Výběr možností, limit 2 vteřiny (T2) na volbu
 
 
 ```
@@ -23,3 +20,30 @@ IF ERRORLEVEL ==1 GOTO ONE
 GOTO END
 :THREE
 ```
+
+po uplynutí limitu možnost nutno nastavení odpočtu manuálně, případně možnost zvolit D nebo F
+
+```
+echo       * or use D for DRIPPER or F for FRENCH PRESS *
+echo.
+
+set/p "time=>
+
+if "%time%" =="f" goto TWO
+if "%time%" =="d" goto ONE
+
+TIMEOUT /T %time% /NOBREAK
+```
+
+U možnosti D pro Dripper nastaveno čas T30 na 'Blooming phase' a následně T150. T3 na přečtění instrukcí a rezerva.
+```
+TIMEOUT /T 3 /NOBREAK>nul
+echo.
+echo.
+TIMEOUT /T 30 /NOBREAK
+TIMEOUT /T 2 /NOBREAK>nul
+echo.
+echo.
+TIMEOUT /T 150 /NOBREAK
+```
+
