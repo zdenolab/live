@@ -60,5 +60,5 @@ MSG * /v "Your Coffee is ready!"
 EXIT
 GOTO exit
 ```
-![msg.PNG]({{site.baseurl}}/_project/msg.PNG)
+![msg.PNG](https://raw.githubusercontent.com/zdenolab/zdenolab.github.io/master/static/projects/msg.PNG)
 
