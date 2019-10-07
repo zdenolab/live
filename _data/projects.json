@@ -3,7 +3,6 @@
 		"slug": "brew-timer",
 		"name": "Brewing Timer (cmd)",
 		"image": "brew.PNG",
-		"url": "https://www.google.com",
 		"date": "Sep 2019",
 		"tags": ["Other","Batch","Windows"]
 	},
@@ -18,7 +17,7 @@
 	{
 		"name": "Project 3",
 		"image": "placeholder.jpg",
-		"url": "#",
+		"url": "https://www.google.com",
 		"date": "June 2014",
 		"tags": ["HTML"]
 	},
