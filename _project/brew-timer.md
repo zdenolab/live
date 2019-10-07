@@ -6,6 +6,8 @@ published: true
 ---
 ### Brewing Timer 2.0 (batch / cmd)
 
+
+
 - vytvořeno jako jednoduchý dávkový soubor -> timer pro přípravu kávy.
 - 2 automatická nastavení času - Dripper 180 s a French press 200 s
 - možnost nastavení manuálně
