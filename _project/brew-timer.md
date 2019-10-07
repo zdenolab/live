@@ -8,7 +8,7 @@ published: true
 - 2 automatická nastavení času - Dripper 180 s a French press 200 s
 - možnost nastavení odpočtu manuálně
 
-> obsah souboru [zde](https://raw.githubusercontent.com/zdenolab/zdenolab.github.io/master/static/projects/BrewingTimer_2.0.cmd)
+> obsah souboru (kliknutím zobrazit, pro stažení -> uložit odkaz jako) [zde](https://raw.githubusercontent.com/zdenolab/zdenolab.github.io/master/static/projects/BrewingTimer_2.0.cmd)
 
 
 Výběr 3 možností bez nutnosti potvrzení enterem
@@ -61,4 +61,3 @@ EXIT
 GOTO exit
 ```
 ![msg.PNG](https://raw.githubusercontent.com/zdenolab/zdenolab.github.io/master/static/projects/msg.PNG)
-
