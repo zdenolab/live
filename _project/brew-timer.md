@@ -6,4 +6,5 @@ published: true
 ---
 ## Brewing Timer 2.0 (batch / cmd)
 
-vytvořeno jako jednoduchý dávkový soubor -> timer pro přípravu kávy.
+
+- vytvořeno jako jednoduchý dávkový soubor -> timer pro přípravu kávy.
