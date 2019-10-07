@@ -10,8 +10,6 @@ published: true
 
 > download souboru [zde] (https://raw.githubusercontent.com/zdenolab/zdenolab.github.io/master/static/projects/BrewingTimer_2.0.cmd)
 
-[tu](https://github.com/zdenolab/zdenolab.github.io/blob/master/static/projects/BrewingTimer_2.0.cmd)
-
 
 Výběr možností, limit 2 vteřiny (T2) na volbu
 
