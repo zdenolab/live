@@ -8,8 +8,10 @@ published: true
 - 2 automatická nastavení času - Dripper 180 s a French press 200 s
 - možnost nastavení odpočtu manuálně
 
+> download souboru [zde](static/projects/BrewingTimer_2.0.cmd)
 
- Výběr možností, limit 2 vteřiny (T2) na volbu
+
+Výběr možností, limit 2 vteřiny (T2) na volbu
 
 
 ```
@@ -21,7 +23,7 @@ GOTO END
 :THREE
 ```
 
-po uplynutí limitu možnost nutno nastavení odpočtu manuálně, případně možnost zvolit D nebo F
+Po uplynutí limitu je nutné nastavení odpočtu manuálně, případně možnost zvolit D nebo F (hodnoty odpočtu přednastaveny D ->T30 + 150 ; F -> T200)
 
 ```
 echo       * or use D for DRIPPER or F for FRENCH PRESS *
@@ -35,7 +37,7 @@ if "%time%" =="d" goto ONE
 TIMEOUT /T %time% /NOBREAK
 ```
 
-U možnosti D pro Dripper nastaveno čas T30 na 'Blooming phase' a následně T150. T3 na přečtění instrukcí a rezerva.
+U možnosti D pro Dripper nastaven čas T30 na 'Blooming phase' a následně T150. T3 na přečtění instrukcí a rezerva.
 ```
 TIMEOUT /T 3 /NOBREAK>nul
 echo.
@@ -46,4 +48,10 @@ echo.
 echo.
 TIMEOUT /T 150 /NOBREAK
 ```
-
+Po uplynutí času vytvoří MsgBox na potvrzení OK a následně ukončí dávku.
+```
+:timesup
+MSG * /v "Your Coffee is ready!"
+EXIT
+GOTO exit
+```
