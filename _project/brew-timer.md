@@ -8,7 +8,7 @@ published: true
 - 2 automatická nastavení času - Dripper 180 s a French press 200 s
 - možnost nastavení odpočtu manuálně
 
-> download souboru [zde](static/projects/BrewingTimer_2.0.cmd)
+> download souboru [zde](https://raw.githubusercontent.com/zdenolab/zdenolab.github.io/master/static/projects/BrewingTimer_2.0.cmd)
 
 
 Výběr možností, limit 2 vteřiny (T2) na volbu
