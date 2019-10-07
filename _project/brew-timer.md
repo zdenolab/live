@@ -13,12 +13,7 @@ CHOICE /N /T 1 /D 1 /C:1 %1
 IF ERRORLEVEL ==1 GOTO TED
 :TED
 echo.
-echo  		.--------------------.
-echo  		I  Set your time..   I
-echo  		'--------------------'
-echo      				:      (\_/)
-echo      				'----- (O.o)
-echo.            			   ( . )
+(...)
 echo.
 
 CHOICE /N /T 2 /D 3 /C:123 %1
@@ -26,7 +21,3 @@ IF ERRORLEVEL ==3 GOTO THREE
 IF ERRORLEVEL ==2 GOTO TWO
 IF ERRORLEVEL ==1 GOTO ONE
 ```
-
-
-
-
