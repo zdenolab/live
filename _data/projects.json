@@ -8,7 +8,8 @@
 		"tags": ["Other","Batch","Windows"]
 	},
 	{
-		"name": "Project 2",
+		"slug": "brew_timer",
+      	"name": "Project 2",
 		"image": "placeholder.jpg",
 		"url": "#",
 		"date": "May 2014",
