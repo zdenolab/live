@@ -1,7 +1,7 @@
 ---
 layout: project_single
 title: Brewing Timer
-slug: cool-project
+slug: brew_timer
 published: true
 ---
-brewerererewrierwngw kgowe kgwe 
+brewerererewrierwngw kgowe kgwe
