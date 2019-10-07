@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: project-single
 title: Brewing Timer
 slug: cool-project
 published: true
