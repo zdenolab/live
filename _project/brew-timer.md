@@ -11,8 +11,13 @@ published: true
 > obsah souboru [zde](https://raw.githubusercontent.com/zdenolab/zdenolab.github.io/master/static/projects/BrewingTimer_2.0.cmd)
 
 
-Výběr možností, limit 2 vteřiny (T2) na volbu
-
+Výběr 3 možností bez nutnosti potvrzení enterem
+```
+echo     Press 1 to set up timer for Dripper. (180 sec)
+echo     Press 2 to set up timer for French Press (200 sec)
+echo	 Press 3 to set up timer manually!
+```
+limit 2 vteřiny (T2) na volbu
 
 ```
 CHOICE /N /T 2 /D 3 /C:123 %1
@@ -23,7 +28,7 @@ GOTO END
 :THREE
 ```
 
-Po uplynutí limitu je nutné nastavení odpočtu manuálně, případně možnost zvolit D nebo F (hodnoty odpočtu přednastaveny D ->T30 + 150 ; F -> T200)
+Po uplynutí limitu je nutné nastavení odpočtu manuálně, případně možnost zvolit D nebo F (hodnoty odpočtu přednastaveny D ->T30 + 150 ; F -> T200) **-> zde již nutno potvrdit enter**
 
 ```
 echo       * or use D for DRIPPER or F for FRENCH PRESS *
