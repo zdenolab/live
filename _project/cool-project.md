@@ -1,6 +1,7 @@
 ---
 layout: project_single
-title:  "Cool Project"
-slug: "cool-project"
+title: Brewing Timer
+slug: cool-project
+published: true
 ---
-Just a demo text for now, which signifies there is lot of scope for improvement.
+test test tetretrtte et ete e
