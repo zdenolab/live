@@ -1,6 +1,6 @@
 [
 	{
-		"slug": "cool-project",
+		"slug": "brew_timer",
 		"name": "Brewing Timer (cmd)",
 		"image": "brew.PNG",
 		"url": "https://www.google.com",
@@ -8,7 +8,7 @@
 		"tags": ["Other","Batch","Windows"]
 	},
 	{
-		"slug": "brew_timer",
+		"slug": "cool-project",
       	"name": "Project 2",
 		"image": "placeholder.jpg",
 		"url": "#",
