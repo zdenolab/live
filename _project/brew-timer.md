@@ -17,7 +17,7 @@ echo     Press 1 to set up timer for Dripper. (180 sec)
 echo     Press 2 to set up timer for French Press (200 sec)
 echo	 Press 3 to set up timer manually!
 ```
-limit 2 vteřiny (T2) na volbu
+Limit 2 vteřiny (T2) na volbu
 
 ```
 CHOICE /N /T 2 /D 3 /C:123 %1
@@ -42,7 +42,7 @@ if "%time%" =="d" goto ONE
 TIMEOUT /T %time% /NOBREAK
 ```
 
-U možnosti D pro Dripper nastaven čas T30 na 'Blooming phase' a následně T150. T3 na přečtění instrukcí a rezerva.
+U možnosti D pro Dripper nastaven čas T30 na 'Blooming phase' a následně T150. T3 je mezičas na přečtění instrukcí a rezerva na přechod.
 ```
 TIMEOUT /T 3 /NOBREAK>nul
 echo.
@@ -60,3 +60,4 @@ MSG * /v "Your Coffee is ready!"
 EXIT
 GOTO exit
 ```
+
