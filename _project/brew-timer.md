@@ -54,10 +54,11 @@ echo.
 TIMEOUT /T 150 /NOBREAK
 ```
 Po uplynutí času vytvoří MsgBox na potvrzení OK a následně ukončí dávku.
-![msg.PNG](https://raw.githubusercontent.com/zdenolab/zdenolab.github.io/master/static/projects/msg.PNG)
 ```
 :timesup
 MSG * /v "Your Coffee is ready!"
 EXIT
 GOTO exit
 ```
+![msg.PNG](https://raw.githubusercontent.com/zdenolab/zdenolab.github.io/master/static/projects/msg.PNG)
+
