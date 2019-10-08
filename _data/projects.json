@@ -8,11 +8,11 @@
 	},
 	{
 		"slug": "cool-project",
-      	"name": "Project 2",
+      	"name": "Personal Budget",
 		"image": "placeholder.jpg",
 		"url": "#",
 		"date": "May 2014",
-		"tags": ["SQL","VBA"]
+		"tags": ["SQL","VBA","Excel"]
 	},
 	{
 		"name": "Project 3",
