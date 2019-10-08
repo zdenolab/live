@@ -20,18 +20,9 @@ Podporované jazyky jsou lze nalézt na nálsedujícím odkaze:
 
 Více na webu [Jekyllrb.com](https://jekyllrb.com/docs/liquid/tags/)
 
-### Výpis nejčastěji používaných tagů:
-
-Zvýraznění dle jazyka:
-{% raw %}
-```raw
-{% highlight VAS_JAZYK %} + {% endhighlight %}
-```
-{% endraw %}
-
 Kód jednoduchý:
-```java
-kod je uavřen obácenou čárkou z obou stran tzn. ``.
+```
+Kód je uavřen obácenou čárkou z obou stran tzn. ``.
 ```
 
 
