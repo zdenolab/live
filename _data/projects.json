@@ -1,14 +1,14 @@
 [
 	{
 		"slug": "brew-timer",
-		"name": "Brewing Timer (cmd)",
+		"name": "Brewing Timer (.cmd)",
 		"image": "brew.PNG",
 		"date": "Sep 2019",
 		"tags": ["Other","Batch","Windows"]
 	},
 	{
 		"slug": "personal-budget",
-      	"name": "Personal Budget",
+      	"name": "Personal Budget (.xlsm)",
 		"image": "spnd.PNG",
 		"date": "Oct 2019",
 		"tags": ["SQL","VBA","Excel"]
