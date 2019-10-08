@@ -30,7 +30,7 @@ Zvýraznění dle jazyka:
 {% endraw %}
 
 Kód jednoduchý:
-```raw
+```java
 kod je uavřen obácenou čárkou z obou stran tzn. ``.
 ```
 
