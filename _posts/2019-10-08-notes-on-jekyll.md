@@ -34,9 +34,8 @@ Some code.
 ```
 
 Kód jednoduchý:
-{% raw %}
-`kod je uavřen obácenou čárkou z obou stran tzn. (``)`
-{% endraw %}
+`raw kod je uavřen obácenou čárkou z obou stran tzn. (``)`
+
 
 atd.
 
