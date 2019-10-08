@@ -22,7 +22,9 @@ Více na webu [Jekyllrb.com](https://jekyllrb.com/docs/liquid/tags/)
 
 Zvýraznění dle jazyka:
 {% raw %}
-`{% highlight VAS_JAZYK %} + {% endhighlight %}`
+```raw
+{% highlight VAS_JAZYK %} + {% endhighlight %}
+```
 {% endraw %}
 
 ```raw
