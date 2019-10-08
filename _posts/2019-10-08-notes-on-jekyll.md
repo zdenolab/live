@@ -25,6 +25,10 @@ Zvýraznění dle jazyka:
 `{% highlight VAS_JAZYK %} + {% endhighlight %}`
 {% endraw %}
 
+```javascript
+Some code.
+```
+
 Kód jednoduchý:
 {% raw %}
 `kod je uavřen obácenou čárkou z obou stran tzn. (``)`
