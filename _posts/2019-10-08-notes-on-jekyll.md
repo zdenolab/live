@@ -10,7 +10,7 @@ published: true
 Jekyll umožňuje podporu zvýraznění syntaxe různých jazyků. Toto probíhá přes tag:
 
 {% raw %}
-```java
+```liquid
 {% highlight VAS_JAZYK %} + {% endhighlight %}
 ```
 {% endraw %}
