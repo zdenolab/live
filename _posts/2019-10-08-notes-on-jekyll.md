@@ -21,10 +21,14 @@ Více na webu [Jekyllrb.com](https://jekyllrb.com/docs/liquid/tags/)
 ### Výpis nejčastěji používaných tagů:
 
 Zvýraznění dle jazyka:
+{% raw %}
 `{% highlight VAS_JAZYK %} + {% endhighlight %}`
+{% endraw %}
 
 Kód jednoduchý:
+{% raw %}
 `kod je uavřen obácenou čárkou z obou stran tzn. (``)`
+{% endraw %}
 
 atd.
 
