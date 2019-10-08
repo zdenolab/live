@@ -11,7 +11,7 @@ Jekyll umožňuje podporu zvýraznění syntaxe různých jazyků. Toto probíh�
 
 {% raw %}
 ```java
-{% highlight VAS_JAZYK %} zde je kód {% endhighlight %}
+{% highlight VAS_JAZYK %} your_code {% endhighlight %}
 ```
 {% endraw %}
 
