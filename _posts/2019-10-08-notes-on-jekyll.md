@@ -9,9 +9,11 @@ published: true
 ### Code snippet highlighting
 Jekyll umožňuje podporu zvýraznění syntaxe různých jazyků. Toto probíhá přes tag:
 
->{% highlight VAS_JAZYK %} + {% endhighlight %}
+```
+{% highlight VAS_JAZYK %} + {% endhighlight %}
+```
 
-Podporované jazyky jsou lze naléz na nálsedujícím odkaze:
+Podporované jazyky jsou lze nalézt na nálsedujícím odkaze:
 [List of supported languages and lexers.](https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers)
 
 Více na webu [Jekyllrb.com](https://jekyllrb.com/docs/liquid/tags/)
@@ -22,7 +24,7 @@ Zvýraznění dle jazyka:
 `{% highlight VAS_JAZYK %} + {% endhighlight %}`
 
 Kód jednoduchý:
-`kod je uavřen obácenou čárkou z obou strn tzn (``)`
+`kod je uavřen obácenou čárkou z obou stran tzn. (``)`
 
 atd.
 
