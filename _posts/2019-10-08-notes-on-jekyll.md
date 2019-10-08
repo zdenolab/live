@@ -25,6 +25,10 @@ Zvýraznění dle jazyka:
 `{% highlight VAS_JAZYK %} + {% endhighlight %}`
 {% endraw %}
 
+```raw
+Some `` code.
+```
+
 ```javascript
 Some code.
 ```
