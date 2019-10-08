@@ -1,7 +1,7 @@
 ---
 layout: project_single
-title: Personal Budget (.XLSM)
+title: Personal Budget
 slug: personal-budget
 published: true
 ---
-hnfsakfa fnkasfaj n kfansklf nklfas 
+hnfsakfa fnkasfaj n kfansklf nklfas
