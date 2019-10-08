@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Notes on Jekyll!
-date: '2019-08-10 21:28:15 +0700'
+date: '2019-10-08 21:28:15 +0700'
 categories:
   - jekyll
 published: true
