@@ -9,7 +9,7 @@ published: true
 ## Code snippet highlighting
 Jekyll umožňuje podporu zvýraznění syntaxe různých jazyků. Toto probíhá přes tag:
 
-`{% highlight VAS_JAZYK %} + {% endhighlight %}`
+`"{% highlight VAS_JAZYK %} + {% endhighlight %}"`
 
 Podporované jazyky jsou lze naléz na nálsedujícím odkaze:
 [List of supported languages and lexers.](https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers)
