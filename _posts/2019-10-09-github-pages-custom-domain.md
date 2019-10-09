@@ -18,9 +18,9 @@ Lze forknout již hotový repository, na githubu lze nalézt mnoho vývojářů,
 ### Nastavení GitHub repository
 
 Je nutné povolit GitHub Pages, ty budou fungovat pouze pokud se repository jmenuje 
-`{your-username.github.io}`
+`{your-username.github.io}`   
 Lze dát i do podsložky, ale webová adresa na githubu bude obsahovat celou cestu tzn.
-`{your-username/podsložka.github.io}`
+`{your-username/podsložka.github.io}`   
 tady chci zkjus
 jestli
 
