@@ -40,6 +40,13 @@ To by mělo automaticky přidat vaší doménu v Nastavení -> GitHub Pages -> C
 
 Následně v administraci Wedosu otevřu Seznam domén -> Editovat DNS záznamy kde je nutno smazat AAA záznamy a upravit, resp. přidat záznamy A s IP adresami GitHubu.
 
+```
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+```
+
 Následně je také nutno přidat CNAME soubor s vaší github adresou. Viz obrázek:
 
 ![wedos.PNG](https://raw.githubusercontent.com/zdenolab/zdenolab.github.io/master/static/img/_posts/wedos.PNG "WEDOS")
