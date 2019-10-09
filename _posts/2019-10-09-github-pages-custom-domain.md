@@ -22,7 +22,6 @@ Je nutné povolit GitHub Pages, ty budou fungovat pouze pokud se repository jmen
 
 ![gh_repo.PNG](https://raw.githubusercontent.com/zdenolab/zdenolab.github.io/master/static/img/_posts/gh_repo.PNG "repository")
 
-
 Repository je také nutné mít nastaveno jako **master branch**
 
 
