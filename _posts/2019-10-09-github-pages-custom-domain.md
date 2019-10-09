@@ -27,3 +27,11 @@ Repository je také nutné mít nastaveno jako **master branch**
 
 
 ![master.PNG](https://raw.githubusercontent.com/zdenolab/zdenolab.github.io/master/static/img/_posts/master.PNG "master_branch")
+
+### Nastavení vlastní domény
+
+Pokud vše funguje na adrese `your-username.github.io` a chceme web přesměrovat na vlastní doménu. Já jsem koupil doménu na [Wedos](https://www.wedos.cz/).
+
+Nejprve je nutné v repository na GitHubu vytvořit soubor `CNAME` (nutno aby byl v root), jehož obsahem bude pouze vaše doména:
+
+![cname.PNG](https://raw.githubusercontent.com/zdenolab/zdenolab.github.io/master/static/img/_posts/cname.PNG "CNAME")
