@@ -21,3 +21,5 @@ Je nutné povolit GitHub Pages, ty budou fungovat pouze pokud se repository jmen
 Lze dát i do podsložky, ale webová adresa na githubu bude obsahovat celou cestu tzn.
 `{your-username/podsložka.github.io}`
 
+![gh_repo.PNG]({{site.baseurl}}/_posts/gh_repo.PNG)
+
