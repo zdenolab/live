@@ -17,7 +17,7 @@ Lze forknout již hotový repository, na githubu lze nalézt mnoho vývojářů,
 
 ### Nastavení GitHub repository
 			
-Je nutné povolit GitHub Pages, ty budou fungovat pouze pokud se repository jmenuje  `{your-username.github.io}`. Lze dát i do podsložky, ale webová adresa na githubu bude obsahovat celou cestu tzn. `{your-username/podsložka.github.io}`			
+GitHub Pages budou fungovat pouze pokud se repository jmenuje  `{your-username.github.io}`. Lze dát i do podsložky, ale webová adresa na githubu bude obsahovat celou cestu tzn. `{your-username/podsložka.github.io}`			
 
 
 ![gh_repo.PNG](https://raw.githubusercontent.com/zdenolab/zdenolab.github.io/master/static/img/_posts/gh_repo.PNG "repository")
@@ -29,8 +29,17 @@ Repository je také nutné mít nastaveno jako **master branch**
 
 ### Nastavení vlastní domény
 
-Pokud vše funguje na adrese `your-username.github.io` a chceme web přesměrovat na vlastní doménu. Já jsem koupil doménu na [Wedos](https://www.wedos.cz/).
+Pokud vše funguje na adrese `your-username.github.io` a chceme web přesměrovat na vlastní doménu, je třeba mít vlastní doménu. Já jsem koupil doménu na [Wedos](https://www.wedos.cz/), kde budu popisovat následně nastavení.
 
 Nejprve je nutné v repository na GitHubu vytvořit soubor `CNAME` (nutno aby byl v root), jehož obsahem bude pouze vaše doména:
 
 ![cname.PNG](https://raw.githubusercontent.com/zdenolab/zdenolab.github.io/master/static/img/_posts/cname.PNG "CNAME")
+
+To by mělo automaticky přidat vaší doménu v Nastavení -> GitHub Pages -> Custom Domain.
+
+
+Následně v administraci Wedosu otevřu Seznam domén -> Editovat DNS záznamy kde je nutno smazat AAA záznamy a upravit, resp. přidat záznamy A s IP adresami GitHubu.
+
+Následně je také nutno přidat CNAME soubor s vaší github adresou. Viz obrázek:
+
+![wedos.PNG](https://raw.githubusercontent.com/zdenolab/zdenolab.github.io/master/static/img/_posts/wedos.PNG "WEDOS")
