@@ -44,7 +44,7 @@ Repository musí být nastaveno jako **master branch**
 - To by mělo automaticky přidat vaší doménu v Nastavení -> GitHub Pages -> Custom Domain.
 
 
-2.Následně v administraci Wedosu otevřu Seznam domén -> Editovat DNS záznamy kde je nutno smazat AAA záznamy a upravit, resp. přidat záznamy A s IP adresami GitHubu.
+2. Následně v administraci Wedosu otevřu Seznam domén -> Editovat DNS záznamy kde je nutno smazat AAA záznamy a upravit, resp. přidat záznamy A s IP adresami GitHubu.
 
 ```
 TTL:1800	Type:A		185.199.108.153
@@ -53,6 +53,6 @@ TTL:1800	Type:A		185.199.110.153
 TTL:1800	Type:A		185.199.111.153
 ```
 
-3.Poté přidat CNAME soubor s vaší GitHub adresou. Viz obrázek:
+3. Poté přidat CNAME soubor s vaší GitHub adresou. Viz obrázek:
 
 ![wedos.PNG](https://raw.githubusercontent.com/zdenolab/zdenolab.github.io/master/static/img/_posts/wedos.PNG "WEDOS")
