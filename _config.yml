@@ -37,7 +37,7 @@ urls:
       url: /feed.xml
 
 url: "https://zdenolab.github.io"
-baseurl: ""
+baseurl: "zdenolab.github.io"
 paginate: 15
 per_page: 15
 paginate_path: "/page/:num/"
