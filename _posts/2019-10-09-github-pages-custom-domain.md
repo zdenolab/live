@@ -1,19 +1,18 @@
 ---
 published: true
 layout: post
-title:  "GitHub Pages na vlastní doméně"
+title: GitHub Pages na vlastní doméně
 date: '2019-10-09 14:29:23 +0700'
 categories:
   - others
   - jekyll
 ---
-## A New Post
+## Použití GitHub Pages na vlastní doméně - postup
 
-dsada 
-dsa 
-dsa 
-das
-igt
-git
+GitHub prostřednictvím GitHub Pages umožňuje každému jednoduše vytvořit osobní stránky, případně stránky projektu. 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Pro tvorbu webu je třeba mít základní znalost Liquid template, příkazů pro terminal, git, HTML/CSS a framework Jekyll, na kterém to celé stojí.
+
+Lze forknout již hotový repository, na githubu lze nalézt mnoho vývojářů, kteří mají k dispozici hotový template -> tzjn. stačí ho forknout jako svůj repository a po úpravách používat. Předpokládejmě. že toto je hotovo.
+
+### Nastavení GitHub repository
