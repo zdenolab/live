@@ -31,7 +31,7 @@ Repository musí být nastaveno jako **master branch**
 ### Nastavení vlastní domény
 
 
-> Pokud vše funguje na adrese `your-username.github.io` a chceme web přesměrovat na vlastní doménu, je třeba mít vlastní doménu. Já jsem koupil doménu na **[Wedos]**(https://www.wedos.cz/), kde budu popisovat následně nastavení.
+> Pokud vše funguje na adrese `your-username.github.io` a chceme web přesměrovat na vlastní doménu, je třeba mít vlastní doménu. Já jsem koupil doménu na **[Wedos](https://www.wedos.cz/)**, kde budu popisovat následně nastavení.
 
 1. Nejprve je nutné v repository na GitHubu vytvořit soubor `CNAME` (nutno aby byl v root), jehož obsahem bude pouze vaše doména:
 
