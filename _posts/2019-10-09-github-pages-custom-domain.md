@@ -17,12 +17,12 @@ Lze forknout již hotový repository, na githubu lze nalézt mnoho vývojářů,
 
 ### Nastavení GitHub repository
 			
-GitHub Pages budou fungovat pouze pokud se repository jmenuje  `{your-username.github.io}`. Lze dát i do podsložky, ale webová adresa na githubu bude obsahovat celou cestu tzn. `{your-username/podsložka.github.io}`			
+GitHub Pages budou fungovat pouze pokud se repository jmenuje  `{your-username.github.io}`. Lze dát i do subfolderu, ale webová adresa na githubu bude obsahovat celou cestu tzn. `{your-username/subfolder.github.io}`			
 
 
 ![gh_repo.PNG](https://raw.githubusercontent.com/zdenolab/zdenolab.github.io/master/static/img/_posts/gh_repo.PNG "repository")
 
-Repository je také nutné mít nastaveno jako **master branch**
+Repository musí být nastaveno jako **master branch**
 
 
 ![master.PNG](https://raw.githubusercontent.com/zdenolab/zdenolab.github.io/master/static/img/_posts/master.PNG "master_branch")
