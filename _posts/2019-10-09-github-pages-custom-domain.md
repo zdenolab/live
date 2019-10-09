@@ -1,5 +1,10 @@
 ---
 published: true
+layout: post
+date: '2019-10-09 14:29:23 +0700'
+categories:
+  - others
+  - jekyll
 ---
 ## A New Post
 
