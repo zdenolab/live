@@ -41,7 +41,8 @@ Repository musí být nastaveno jako **master branch**
 - To by mělo automaticky přidat vaší doménu v Nastavení -> GitHub Pages -> Custom Domain.
 
 
-2. Následně v administraci Wedosu otevřu Seznam domén -> Editovat DNS záznamy kde je nutno smazat AAA záznamy a upravit, resp. přidat záznamy A s IP adresami GitHubu.
+
+. Následně v administraci Wedosu otevřu Seznam domén -> Editovat DNS záznamy kde je nutno smazat AAA záznamy a upravit, resp. přidat záznamy A s IP adresami GitHubu.
 
 
 ```
