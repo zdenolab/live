@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title:  "Github Pages na vlastní doméně"
 date: '2019-10-09 14:29:23 +0700'
 categories:
   - others
