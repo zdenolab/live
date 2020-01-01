@@ -14,7 +14,8 @@
 		"tags": ["SQL","VBA","Excel"]
 	},
 	{
-		"name": "Brew_Guide",
+		"slug": "2020-01-01-brew-guide"
+      	"name": "Brew_Guide",
 		"image": "placeholder.jpg",
 		"url": "https://www.zdenekbarcaj.cz/brewguide/",
 		"date": "January 2020",
