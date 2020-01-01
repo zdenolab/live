@@ -1,5 +1,13 @@
 [
 	{
+		"slug": "brew-guide",
+      		"name": "Brew_Guide",
+		"image": "placeholder.jpg",
+		"url": "https://www.zdenekbarcaj.cz/brewguide/",
+		"date": "January 2020",
+		"tags": ["HTML"]
+	},
+	{
 		"slug": "brew-timer",
 		"name": "Brewing Timer (.cmd)",
 		"image": "brew.PNG",
@@ -12,14 +20,6 @@
 		"image": "spnd.PNG",
 		"date": "Oct 2019",
 		"tags": ["SQL","VBA","Excel"]
-	},
-	{
-		"slug": "brew-guide",
-      		"name": "Brew_Guide",
-		"image": "placeholder.jpg",
-		"url": "https://www.zdenekbarcaj.cz/brewguide/",
-		"date": "January 2020",
-		"tags": ["HTML"]
 	},
 	{
 		"name": "Project 4",
