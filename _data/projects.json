@@ -8,14 +8,14 @@
 	},
 	{
 		"slug": "personal-budget",
-      	"name": "Personal Budget (.xlsm)",
+      		"name": "Personal Budget (.xlsm)",
 		"image": "spnd.PNG",
 		"date": "Oct 2019",
 		"tags": ["SQL","VBA","Excel"]
 	},
 	{
-		"slug": "2020-01-01-brew-guide",
-      	"name": "Brew_Guide",
+		"slug": "brew-guide",
+      		"name": "Brew_Guide",
 		"image": "placeholder.jpg",
 		"url": "https://www.zdenekbarcaj.cz/brewguide/",
 		"date": "January 2020",
