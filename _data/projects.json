@@ -2,7 +2,7 @@
 	{
 		"slug": "brew-guide",
       		"name": "Brew Guide",
-		"image": "placeholder.jpg",
+		"image": "guide_head.png",
 		"url": "https://www.zdenekbarcaj.cz/brewguide/",
 		"date": "January 2020",
 		"tags": ["HTML"]
