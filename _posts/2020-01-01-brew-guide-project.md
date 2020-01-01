@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CensorThis - Censor the words [CF]'
+title: Brew Guide Project web
 date: '2020-01-01 04:17:54 +0700'
 categories:
   - python
@@ -12,12 +12,16 @@ IN PROGRESS
 
 **Solution:**
 
+[Project page](https://www.zdenekbarcaj.cz/project/brew-guide/)
+
+[web page](https://www.zdenekbarcaj.cz/brewguide/)
+
 ```
 https://www.zdenekbarcaj.cz/project/brew-guide/
 ```
 
 ```
-https://www.zdenekbarcaj.cz/brewguide/
+[web page](https://www.zdenekbarcaj.cz/brewguide/)
 ```
 
 **Test 2**
